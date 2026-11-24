@@ -1,0 +1,14 @@
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+.kotlin/
+gradle/dists/
+
+# Archivos firmados y llaves: no se suben
+app/release/
+*.jks
+*.keystore
+*.apk
+*.aab
